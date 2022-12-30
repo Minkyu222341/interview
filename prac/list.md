@@ -10,7 +10,7 @@
 * 인터페이스 추상클래스 차이
 * java7 , java8 버전의 차이 
 * cors란 ?
-* spring과 spring boot
+* [spring과 spring boot](https://github.com/Minkyu222341/studyAndAlgorithm/blob/master/src/main/java/com/sparta/study/Spring%20Springboot.md)
 * 스프링 트랜잭션이란 ? 
 * 동기 비동기 ? 논블라킹 블락킹 ? 
 * 개발자가 되기로 한 이유 ?
