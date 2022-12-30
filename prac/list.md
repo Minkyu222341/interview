@@ -17,7 +17,7 @@
 * spring MVC의 구조
 * jpa n+1 
 * 스프링 시큐리티 구조 
-* 뭐 공부하고있냐 ? -> 도커 관련해서 대답
+* [뭐 공부하고있냐 ? -> 도커 관련해서 대답](https://github.com/Minkyu222341/studyAndAlgorithm/blob/master/src/main/java/com/sparta/study/%EB%8F%84%EC%BB%A4.md)
 * nosql vs rdbms
 * CI/CD과정 -> 딥하게(방식까지) 
 * NGINX가 뭔지
