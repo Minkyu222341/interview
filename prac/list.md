@@ -5,7 +5,7 @@
 * 멀티스레드와 싱글스레드
 * 스레드에서 공유하는 자원
 * gradle에 대하여
-* jpa란
+* [JPA란](https://github.com/Minkyu222341/studyAndAlgorithm/blob/master/src/main/java/com/sparta/study/JPA.md)
 * OOP and AOP 
 * 인터페이스 추상클래스 차이
 * java7 , java8 버전의 차이 
