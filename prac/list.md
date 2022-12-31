@@ -13,7 +13,6 @@
 * [spring과 spring boot](https://github.com/Minkyu222341/studyAndAlgorithm/blob/master/src/main/java/com/sparta/study/Spring%20Springboot.md)
 * 스프링 트랜잭션이란 ? 
 * 동기 비동기 ? 논블라킹 블락킹 ? 
-* 개발자가 되기로 한 이유 ?
 * [spring MVC의 구조](https://github.com/Minkyu222341/studyAndAlgorithm/blob/master/src/main/java/com/sparta/study/%EC%8A%A4%ED%94%84%EB%A7%81MVC.md)
 * jpa n+1 
 * 스프링 시큐리티 구조 
@@ -31,6 +30,7 @@
 * 리스트와 어레이 차이 ?
 * 하이버네이트 ? 
 * 디자인 패턴
+* 개발자가 되기로 한 이유 ?
 
 ### 역질문
 * 스터디 있는지
