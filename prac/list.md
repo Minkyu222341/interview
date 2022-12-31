@@ -4,7 +4,7 @@
 * 프로세스와 스레드
 * 멀티스레드와 싱글스레드
 * 스레드에서 공유하는 자원
-* gradle에 대하여
+* [gradle에 대하여](https://github.com/Minkyu222341/studyAndAlgorithm/blob/master/src/main/java/com/sparta/study/Gradle.md)
 * [JPA란](https://github.com/Minkyu222341/studyAndAlgorithm/blob/master/src/main/java/com/sparta/study/JPA.md)
 * OOP and AOP 
 * [인터페이스 추상클래스 차이](https://github.com/Minkyu222341/studyAndAlgorithm/blob/master/src/main/java/com/sparta/study/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4.md)
