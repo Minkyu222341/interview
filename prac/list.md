@@ -17,7 +17,7 @@
 * jpa n+1 
 * [스프링 시큐리티 구조](https://github.com/Minkyu222341/studyAndAlgorithm/blob/master/src/main/java/com/sparta/study/%EC%8A%A4%ED%94%84%EB%A7%81%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0.md)
 * [뭐 공부하고있냐 ? -> 도커 관련해서 대답](https://github.com/Minkyu222341/studyAndAlgorithm/blob/master/src/main/java/com/sparta/study/%EB%8F%84%EC%BB%A4.md)
-* nosql vs rdbms
+* [nosql vs rdbms](https://github.com/Minkyu222341/studyAndAlgorithm/blob/master/src/main/java/com/sparta/study/NoSQL%20RDBMS.md)
 * [CI/CD과정](https://github.com/Minkyu222341/studyAndAlgorithm/blob/master/src/main/java/com/sparta/study/CICD.md)
 * [NGINX가 뭔지](https://github.com/Minkyu222341/studyAndAlgorithm/blob/master/src/main/java/com/sparta/study/NGINX.md)
 * [리버스프록시가 뭔지](https://github.com/Minkyu222341/studyAndAlgorithm/blob/master/src/main/java/com/sparta/study/%ED%94%84%EB%A1%9D%EC%8B%9C%EC%84%9C%EB%B2%84.md)
