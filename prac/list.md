@@ -9,7 +9,7 @@
 * OOP and AOP 
 * [인터페이스 추상클래스 차이](https://github.com/Minkyu222341/studyAndAlgorithm/blob/master/src/main/java/com/sparta/study/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 * java7 , java8 버전의 차이 
-* cors란 ?
+* [cors란?](https://github.com/Minkyu222341/studyAndAlgorithm/blob/master/src/main/java/com/sparta/study/CORS.md)
 * [spring과 spring boot](https://github.com/Minkyu222341/studyAndAlgorithm/blob/master/src/main/java/com/sparta/study/Spring%20Springboot.md)
 * 스프링 트랜잭션이란 ? 
 * 동기 비동기 ? 논블라킹 블락킹 ? 
